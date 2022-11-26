@@ -1,0 +1,13 @@
+h1{color:rgb(230, 23, 123)}
+.pic{color:blueviolet}
+#p1{text-transform: uppercase; font-size:25px; text-decoration:underline;}
+.img{width:fit-content;}
+  /* mouse over element */
+  h1:hover {
+    color: rgb(71, 230, 255);
+} 
+/*selected links*/a:active {color:blanchedalmond}
+#p1{padding:80px}
+.pic{font-size: x-large; padding:30px}
+h1{border-width:5px; border-color: brown; border-style: dashed;}
+h1{padding:10px}
